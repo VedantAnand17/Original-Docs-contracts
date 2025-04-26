@@ -53,10 +53,10 @@ sequenceDiagram
 ## 🚀 Contract Deployment
 
 ### Sepolia Testnet
-- **Contract Address**: `0x4B561994954f77C4A8AE298CbD52F88444ac59F4`
+- **Contract Address**: `0x793D9Daac0CEDebbC4d0E8d7a4004719FF199baa`
 - **Deployer**: `0xD0749739d20048f4977F83c847be9a19230dEB3d`
-- **Transaction**: [`0xf8928a79fa4cdd80110797b9190fb319fdd92e4cdfc8a4af931970adfac029c1`](https://sepolia.etherscan.io/tx/0xf8928a79fa4cdd80110797b9190fb319fdd92e4cdfc8a4af931970adfac029c1)
-- **Verified Contract**: [View on Etherscan](https://sepolia.etherscan.io/address/0x4B561994954f77C4A8AE298CbD52F88444ac59F4#code)
+- **Transaction**: [`0x1ac13d4fc294534c261ab9254a2d92cae8ec7bdc6d24ee913dd8eaac1cc82d47`](https://sepolia.etherscan.io/tx/0x1ac13d4fc294534c261ab9254a2d92cae8ec7bdc6d24ee913dd8eaac1cc82d47)
+
 
 ### zkSync Deployment
 ```bash
